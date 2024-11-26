@@ -16,3 +16,5 @@ This is a Discord bot designed to post daily technology updates in your Discord 
    ```bash
    git clone https://github.com/YOUR_USERNAME/raihanuldev-dailyUpdate.git
 
+##Install##
+https://discord.com/oauth2/authorize?client_id=1310953960806289499&permissions=67584&integration_type=0&scope=bot
